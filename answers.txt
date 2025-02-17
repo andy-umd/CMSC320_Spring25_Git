@@ -5,3 +5,7 @@ Answer: It provides an easy and fast solution to tracking versions of code over 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: machine learning
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: [Your answer here]
