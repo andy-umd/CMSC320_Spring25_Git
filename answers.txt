@@ -8,4 +8,8 @@ Answer: machine learning
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: [Your answer here]
+Answer: Merge applies changes made from one branch to another, while rebase essentially "replays" changes that are made.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning more about data science and its real world applications.
